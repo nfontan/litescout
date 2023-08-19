@@ -1,4 +1,6 @@
 # litescout
+Original Author:
+https://codeberg.org/mateyverso/litescout
 
 This **proof of concept** is the result of trying to answer: "what if... I could get glucose data from carelink, expose it in a [nightscout](https://nightscout.github.io/)-compatible way (json API and simple html visualization), all in the same process, without the need to run a mongodb server".
 
