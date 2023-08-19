@@ -1,0 +1,30 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  background-color: black;
+  color: white;
+  font-size: 32px;
+  text-align: center;
+}
+
+/* body {
+  display: flex;
+  flex-direction: column;
+} */
+
+body > div {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.chart svg {
+  max-height: 100%;
+  background-color: #040404;
+}

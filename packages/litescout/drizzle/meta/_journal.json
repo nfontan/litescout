@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1686151445440,
+      "tag": "0000_sour_lake",
+      "breakpoints": false
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1686153968579,
+      "tag": "0001_brown_vin_gonzales",
+      "breakpoints": false
+    }
+  ]
+}
